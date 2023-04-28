@@ -7,11 +7,11 @@ This code was modified from https://github.com/tamarott/SinGAN.
 The random realizations are further calibrated to observed data using gradual deformation method.
 
 ## Training image
-![image](https://github.com/RhFeng/SGANs/blob/main/Fig/len_TI.jpg)
+<img src="https://github.com/RhFeng/SGANs/blob/main/Fig/len_TI.jpg" width="500" height="400">
 ## Random realizations
-![image](https://github.com/RhFeng/SGANs/blob/main/Fig/random_GMD_10.gif)
+<img src="https://github.com/RhFeng/SGANs/blob/main/Fig/random_GMD_10.gif" width="500" height="400">
 ## Calibrated models
-![image](https://github.com/RhFeng/SGANs/blob/main/Fig/cali_GMD_10.gif)
+<img src="https://github.com/RhFeng/SGANs/blob/main/Fig/cali_GMD_10.gif" width="500" height="400">
 
 ## License
 
