@@ -9,9 +9,9 @@ The random realizations are further calibrated to observed data using gradual de
 ## Training image
 <img src="https://github.com/RhFeng/SGANs/blob/main/Fig/len_TI.jpg" width="500" height="400">
 ## Random realizations
-<img src="https://github.com/RhFeng/SGANs/blob/main/Fig/random_GMD_10.gif" width="500" height="400">
+<img src="https://github.com/RhFeng/SGANs/blob/main/Fig/random_GMD_10.gif" width="465" height="400">
 ## Calibrated models
-<img src="https://github.com/RhFeng/SGANs/blob/main/Fig/cali_GMD_10.gif" width="500" height="400">
+<img src="https://github.com/RhFeng/SGANs/blob/main/Fig/cali_GMD_10.gif" width="465" height="400">
 
 ## License
 
